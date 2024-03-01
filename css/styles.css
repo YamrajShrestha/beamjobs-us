@@ -31,10 +31,6 @@ header {
   align-items: center;
 }
 
-.fa-angle-down {
-  margin-left: 5px;
-}
-
 button {
   background-color: var(--brand-color);
   color: #fff;
